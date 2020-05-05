@@ -1,0 +1,2 @@
+# Gboard_HMoegirl_HMenu_Dictionary_R18
+为Gboard而作的，取自于H萌娘目录页的工口词库【R18】
